@@ -1,3 +1,5 @@
+# Order-System Demo
+
 ## Pre-requisites
 
 Node.js >= 18 and running instances of a MongoDB server are required for the app to start.
