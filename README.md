@@ -1,4 +1,4 @@
-# Order-System Demo
+# Order System Demo
 
 ## Pre-requisites
 
